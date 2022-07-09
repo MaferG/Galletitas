@@ -1,0 +1,22 @@
+{
+  "name": "@bit/ernestoa13.componenttest.button",
+  "version": "0.0.1",
+  "homepage": "https://bit.dev/ernestoa13/componenttest/button",
+  "main": "dist/index.js",
+  "componentId": {
+    "scope": "ernestoa13.componenttest",
+    "name": "button",
+    "version": "0.0.1"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {},
+  "peerDependencies": {},
+  "license": "SEE LICENSE IN LICENSE",
+  "bit": {
+    "env": {
+      "compiler": "bit.envs/compilers/react@2.0.0"
+    }
+  }
+}
